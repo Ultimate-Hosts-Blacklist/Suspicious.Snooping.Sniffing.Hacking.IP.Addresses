@@ -1,0 +1,32 @@
+env:
+  global:
+    - secure: UFCUHvS1VKcfzzYnnsGI+8XOzsba8AFCM4Fc/k4Vi8Zm8mkSRn06vrMkMyed90g692RXp9Sd6Xe28xmIg3EmqR9P7z/Ynfc1M4jyexTkQHyFX86bvxpSds5LrRKWCPP8ynyQ8M/z5Ah2NHgeUiZNX3d3sHfauiQErl3jrJAHlJ1o26GALI5DNp4BcVNTtCwnevWT5bd4q6TFxSYxTkyxXHdb5aOPt7H+h/Ens2VeU8smYi286DknodclKOt0TyL/fzwNHvRnQm0Wu8Lq/qSa9i960czS+HlEQe0sx98yE+sanutiKcLZlVmyRN98cCuaA6OK3HflF9n1IsqTyEkwMOB0ARWuuTJ7sAHPssHJEOdk/viIQlT5bLzywj4hCpdyRbHMAeL3W9IQ3dlT14e+W5dquHoRNDDx5bZJIBcpfdHdx6pvw7BFGCSfJS3GsnIVe0PKg+9GFfzt32eCnNhd1g18y60wVC7Lk3jm55j2wiC4VH1FUTZ4MnKEzmRQKkj5+MI1Z5gW5SyZeXtbipcDMxWnwcOeaetWyWQmUCMBGqYhuDY5AFq3DWvX/zH9UgSfDFIXh9zEO7OLwipAJnZAN4vagX7P9TEU8xgSsx33q2V0Ok5uCSj7f4YAKP2I04jhr8y6C8FLj+CMchBnY6CkHzxv2yh0xQT8C0wWrnIiQVU=
+    - GIT_NAME: Travis CI
+    - GIT_EMAIL: dead-hosts@funilrys.com
+    - TRAVIS_REPO_SLUG: Ultimate-Hosts-Blacklist/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses
+    - GIT_BRANCH: master
+
+language: python
+
+python:
+  - "3.6"
+
+matrix:
+  fast_finish: true
+
+cache:
+  - apt
+  - pip
+
+sudo: required
+
+before_install:
+  - sudo apt-get -y install python3-pip python3-yaml
+  - sudo apt-get -y install dos2unix
+  - pip3 install colorama
+
+script:
+  - python3 ./update.py
+
+notifications:
+  email: false
