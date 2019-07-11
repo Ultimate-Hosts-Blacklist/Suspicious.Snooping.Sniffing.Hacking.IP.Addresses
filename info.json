@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 314,
-            "invalid": 3,
-            "tested": 1945,
-            "up": 1628
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Tue Jul  9 03:34:27 2019",
-    "end_epoch": 1562643267.845746,
+    "end_datetime": "Thu Jul 11 03:42:34 2019",
+    "end_epoch": 1562816554.508187,
     "last_autosave_datetime": "Thu Jul 11 03:29:52 2019",
     "last_autosave_epoch": 1562815792.509382,
     "name": "Suspicious.Snooping.Sniffing.Hacking.IP.Addresses",
     "previous_stats": {
         "builds": 2,
-        "clean.list": 1736,
+        "clean.list": 1733,
         "counter": {
-            "down": 1138,
+            "down": 1141,
             "invalid": 10,
             "tested": 2884,
-            "up": 1736
+            "up": 1733
         },
         "domains.list": 2884,
-        "volatile.list": 1736,
-        "whitelisted.list": 1736
+        "volatile.list": 1733,
+        "whitelisted.list": 1733
     },
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses/master/ips.list",
     "start_datetime": "Thu Jul 11 03:19:50 2019",
