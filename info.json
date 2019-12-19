@@ -1,17 +1,8 @@
 {
-    "current_stats": {
-        "builds": 2,
-        "counter": {
-            "down": 822,
-            "invalid": 0,
-            "tested": 2272,
-            "up": 1450
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Tue Dec 17 13:23:54 2019",
-    "end_epoch": 1576589034.098478,
+    "end_datetime": "Thu Dec 19 06:36:20 2019",
+    "end_epoch": 1576737380.815833,
     "last_autosave_datetime": "Thu Dec 19 05:57:24 2019",
     "last_autosave_epoch": 1576735044.56297,
     "name": "Suspicious.Snooping.Sniffing.Hacking.IP.Addresses",
@@ -19,12 +10,12 @@
         "builds": 3,
         "clean.list": 1450,
         "counter": {
-            "down": 1188,
+            "down": 1229,
             "invalid": 0,
-            "tested": 2638,
+            "tested": 2679,
             "up": 1450
         },
-        "domains.list": 2638,
+        "domains.list": 2679,
         "volatile.list": 1450,
         "whitelisted.list": 1450
     },
