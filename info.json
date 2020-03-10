@@ -7,9 +7,9 @@
     "last_autosave_epoch": 1583244241.377836,
     "name": "Suspicious.Snooping.Sniffing.Hacking.IP.Addresses",
     "previous_stats": {
-        "builds": 5,
+        "builds": 1,
         "clean.list": 0,
-        "clean_list": 1450,
+        "clean_list": 1440,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -20,11 +20,11 @@
             "valid": 0
         },
         "domains.list": 2701,
-        "ip.list": 2902,
-        "volatile.list": 1450,
-        "whitelisted.list": 1450
+        "ip.list": 1452,
+        "volatile.list": 1440,
+        "whitelisted.list": 1440
     },
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses/master/ips.list",
-    "start_datetime": "2020-03-08T11:23:09.084305",
-    "start_epoch": 1583666589.084305
+    "start_datetime": "2020-03-10T11:15:49.156248",
+    "start_epoch": 1583838949.156248
 }
