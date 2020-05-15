@@ -1393,6 +1393,13 @@
             "last_retested_at_iso": "2020-03-18T18:40:45",
             "status": "INACTIVE"
         },
+        "119.144.202.220": {
+            "included_at_epoch": 1589530582.644524,
+            "included_at_iso": "2020-05-15T08:16:22.644524",
+            "last_retested_at_epoch": 1589530582.644524,
+            "last_retested_at_iso": "2020-05-15T08:16:22.644524",
+            "status": "INACTIVE"
+        },
         "119.144.202.54": {
             "included_at_epoch": 1589447103.189717,
             "included_at_iso": "2020-05-14T09:05:03.189717",
@@ -3302,6 +3309,13 @@
             "included_at_iso": "2020-05-02T20:27:16",
             "last_retested_at_epoch": 1589478392.587655,
             "last_retested_at_iso": "2020-05-14T17:46:32.587655",
+            "status": "INACTIVE"
+        },
+        "175.8.50.244": {
+            "included_at_epoch": 1589530582.764288,
+            "included_at_iso": "2020-05-15T08:16:22.764288",
+            "last_retested_at_epoch": 1589530582.764288,
+            "last_retested_at_iso": "2020-05-15T08:16:22.764288",
             "status": "INACTIVE"
         },
         "176.121.14.217": {
@@ -5215,6 +5229,13 @@
             "last_retested_at_iso": "2020-05-14T21:12:21.273564",
             "status": "INACTIVE"
         },
+        "193.142.59.103": {
+            "included_at_epoch": 1589530844.925344,
+            "included_at_iso": "2020-05-15T08:20:44.925344",
+            "last_retested_at_epoch": 1589530844.925344,
+            "last_retested_at_iso": "2020-05-15T08:20:44.925344",
+            "status": "INACTIVE"
+        },
         "193.169.252.100": {
             "included_at_epoch": 1588409132.0,
             "included_at_iso": "2020-05-02T08:45:32",
@@ -5582,8 +5603,8 @@
         "193.32.160.138": {
             "included_at_epoch": 1588455443.0,
             "included_at_iso": "2020-05-02T21:37:23",
-            "last_retested_at_epoch": 1589402999.999455,
-            "last_retested_at_iso": "2020-05-13T20:49:59.999455",
+            "last_retested_at_epoch": 1589530961.79998,
+            "last_retested_at_iso": "2020-05-15T08:22:41.799980",
             "status": "INACTIVE"
         },
         "193.32.160.139": {
@@ -8746,8 +8767,8 @@
         "62.118.139.7": {
             "included_at_epoch": 1588432308.0,
             "included_at_iso": "2020-05-02T15:11:48",
-            "last_retested_at_epoch": 1589402589.327591,
-            "last_retested_at_iso": "2020-05-13T20:43:09.327591",
+            "last_retested_at_epoch": 1589530780.241536,
+            "last_retested_at_iso": "2020-05-15T08:19:40.241536",
             "status": "INACTIVE"
         },
         "62.148.148.19": {
