@@ -616,6 +616,13 @@
             "last_retested_at_iso": "2020-06-02T07:15:48.889552",
             "status": "INACTIVE"
         },
+        "104.248.37.249": {
+            "included_at_epoch": 1591248972.434171,
+            "included_at_iso": "2020-06-04T05:36:12.434171",
+            "last_retested_at_epoch": 1591248972.434171,
+            "last_retested_at_iso": "2020-06-04T05:36:12.434171",
+            "status": "INACTIVE"
+        },
         "104.248.53.184": {
             "included_at_epoch": 1588399929.0,
             "included_at_iso": "2020-05-02T06:12:09",
