@@ -1,19 +1,5 @@
 {
-    "current_stats": {
-        "builds": 4,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 902,
-        "whitelisted.list": 0
-    },
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
     "description": "A daily updated list of suspicious, snooping, sniffing and hacking attempts from IP addresses against services like SSH, HTTP and Wordpress Hack Attempts",
     "end_datetime": "2020-03-03T16:10:21.953667",
@@ -36,8 +22,8 @@
             "up": 0,
             "valid": 0
         },
-        "domains.list": 1647,
-        "ip.list": 1877,
+        "domains.list": 1648,
+        "ip.list": 1868,
         "volatile.list": 902,
         "whitelisted.list": 902
     },
