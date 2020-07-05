@@ -10,9 +10,9 @@
     "link": "https://github.com/mitchellkrogza/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses",
     "name": "Suspicious.Snooping.Sniffing.Hacking.IP.Addresses",
     "previous_stats": {
-        "builds": 4,
+        "builds": 1,
         "clean.list": 0,
-        "clean_list": 894,
+        "clean_list": 882,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -22,12 +22,12 @@
             "up": 0,
             "valid": 0
         },
-        "domains.list": 1649,
-        "ip.list": 1815,
-        "volatile.list": 894,
-        "whitelisted.list": 894
+        "domains.list": 1650,
+        "ip.list": 948,
+        "volatile.list": 882,
+        "whitelisted.list": 882
     },
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses/master/ips.list",
-    "start_datetime": "2020-07-04T15:58:38.830794",
-    "start_epoch": 1593878318.830794
+    "start_datetime": "2020-07-05T11:42:13.277240",
+    "start_epoch": 1593949333.27724
 }
