@@ -1,19 +1,5 @@
 {
-    "current_stats": {
-        "builds": 3,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 829,
-        "whitelisted.list": 0
-    },
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
     "description": "A daily updated list of suspicious, snooping, sniffing and hacking attempts from IP addresses against services like SSH, HTTP and Wordpress Hack Attempts",
     "end_datetime": "2020-03-03T16:10:21.953667",
@@ -26,7 +12,7 @@
     "previous_stats": {
         "builds": 4,
         "clean.list": 0,
-        "clean_list": 829,
+        "clean_list": 828,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -37,9 +23,9 @@
             "valid": 0
         },
         "domains.list": 1508,
-        "ip.list": 1713,
-        "volatile.list": 829,
-        "whitelisted.list": 829
+        "ip.list": 1700,
+        "volatile.list": 828,
+        "whitelisted.list": 828
     },
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses/master/ips.list",
     "start_datetime": "2020-07-23T15:52:38.768897",
