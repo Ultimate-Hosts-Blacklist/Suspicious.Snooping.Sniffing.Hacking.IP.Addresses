@@ -1,5 +1,5 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "description": "A daily updated list of suspicious, snooping, sniffing and hacking attempts from IP addresses against services like SSH, HTTP and Wordpress Hack Attempts",
     "end_datetime": "2025-04-12T08:40:39.545116",
@@ -7,14 +7,14 @@
     "issue_link": "https://github.com/mitchellkrogza/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses/issues/new/choose",
     "link": "https://github.com/mitchellkrogza/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses",
     "name": "Suspicious.Snooping.Sniffing.Hacking.IP.Addresses",
-    "previous_end_datetime": "2025-04-12T05:01:06.422163",
-    "previous_end_epoch": 1744434066.422163,
-    "previous_start_datetime": "2025-04-12T02:38:35.365970",
-    "previous_start_epoch": 1744425515.36597,
+    "previous_end_datetime": "2025-04-12T08:40:39.545116",
+    "previous_end_epoch": 1744447239.545116,
+    "previous_start_datetime": "2025-04-12T08:33:23.396766",
+    "previous_start_epoch": 1744446803.396766,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses/master/ips.list",
-    "start_datetime": "2025-04-12T08:33:23.396766",
-    "start_epoch": 1744446803.396766
+    "start_datetime": "2025-04-13T04:47:58.329123",
+    "start_epoch": 1744519678.329123
 }
