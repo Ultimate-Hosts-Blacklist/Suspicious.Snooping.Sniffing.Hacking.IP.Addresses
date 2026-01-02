@@ -1,9 +1,9 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
     "description": "A daily updated list of suspicious, snooping, sniffing and hacking attempts from IP addresses against services like SSH, HTTP and Wordpress Hack Attempts",
-    "end_datetime": "2026-01-02T08:00:23.411512",
-    "end_epoch": 1767340823.411512,
+    "end_datetime": "2026-01-02T15:25:33.565711",
+    "end_epoch": 1767367533.565711,
     "issue_link": "https://github.com/mitchellkrogza/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses/issues/new/choose",
     "link": "https://github.com/mitchellkrogza/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses",
     "name": "Suspicious.Snooping.Sniffing.Hacking.IP.Addresses",
